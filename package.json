@@ -1,0 +1,35 @@
+{
+  "name": "gruvbox-5-stars",
+  "displayName": "Gruvbox ★★★★★",
+  "description": "Gruvbox whith dark background",
+  "version": "1.0.0",
+  "publisher": "sldobri",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#0b1015",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/sldobri/gruvbox-5-stars/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sldobri/gruvbox-5-stars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sldobri/gruvbox-5-stars/issues"
+  },
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "★★★★★ GRUVBOX ★★★★★",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox.json"
+      }
+    ]
+  }
+}
