@@ -3,7 +3,7 @@
 ## Beautiful dark and minimal theme
 
 #### Gruvbox Theme
-![Gruvbox](https://raw.githubusercontent.com/sldobri/darcula-5-stars/master/images/gruvbox.png)
+![Gruvbox](https://raw.githubusercontent.com/sldobri/gruvbox-5-stars/master/images/gruvbox.png)
 
 
 
