@@ -1,7 +1,7 @@
 {
   "name": "gruvbox-5-stars",
   "displayName": "Gruvbox ★★★★★",
-  "description": "Gruvbox whith dark background",
+  "description": "Gruvbox Dark Collections",
   "version": "1.0.1",
   "publisher": "sldobri",
   "icon": "logo.png",
@@ -28,7 +28,27 @@
       {
         "label": "★★★★★ GRUVBOX ★★★★★",
         "uiTheme": "vs-dark",
-        "path": "./themes/gruvbox.json"
+        "path": "./themes/gruvbox-bunker.json"
+      },
+      {
+        "label": "★★★★ GRUVBOX ★★★★",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-onix.json"
+      },
+      {
+        "label": "★★★ GRUVBOX ★★★",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-dark-jungle-green.json"
+      },
+      {
+        "label": "★★ GRUVBOX ★★",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-bokara-gray.json"
+      },
+      {
+        "label": "★ GRUVBOX ★",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-night-rider.json"
       }
     ]
   }
