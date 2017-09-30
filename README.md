@@ -1,13 +1,23 @@
-# ★★★★★ Gruvbox Theme ★★★★★
+# ★★★★★ Gruvbox Themes ★★★★★
 
-## Beautiful dark and minimal theme
+## Beautiful Dark Collection
 
-#### Gruvbox Theme
-![Gruvbox](https://raw.githubusercontent.com/sldobri/gruvbox-5-stars/master/images/gruvbox.png)
+#### Gruvbox ★★★★★
+![Gruvbox-5](https://raw.githubusercontent.com/sldobri/gruvbox-5-stars/master/images/gruvbox-5.png)
 
+#### Gruvbox ★★★★
+![Gruvbox-4](https://raw.githubusercontent.com/sldobri/gruvbox-5-stars/master/images/gruvbox-4.png)
 
+#### Gruvbox ★★★
+![Gruvbox-3](https://raw.githubusercontent.com/sldobri/gruvbox-5-stars/master/images/gruvbox-3.png)
 
-### Background hacks
+#### Gruvbox ★★
+![Gruvbox-2](https://raw.githubusercontent.com/sldobri/gruvbox-5-stars/master/images/gruvbox-2.png)
+
+#### Gruvbox ★
+![Gruvbox-1](https://raw.githubusercontent.com/sldobri/gruvbox-5-stars/master/images/gruvbox-1.png)
+
+### Background hacks - if you need more colors
 
 #### add this your ***User Settings*** (settings.json)
 ```
