@@ -31,22 +31,22 @@
         "path": "./themes/gruvbox-bunker.json"
       },
       {
-        "label": "★★★★ GRUVBOX ★★★★",
+        "label": "★★★★★ GRUVBOX ★★★★",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox-onix.json"
       },
       {
-        "label": "★★★ GRUVBOX ★★★",
+        "label": "★★★★★ GRUVBOX ★★★",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox-dark-jungle-green.json"
       },
       {
-        "label": "★★ GRUVBOX ★★",
+        "label": "★★★★★ GRUVBOX ★★",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox-bokara-gray.json"
       },
       {
-        "label": "★ GRUVBOX ★",
+        "label": "★★★★★ GRUVBOX ★",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox-night-rider.json"
       }
